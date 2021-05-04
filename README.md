@@ -2,7 +2,7 @@
 
 Face and mask detection using CNN
 
-![result.png](img.png)
+![result.png](https://github.com/Harshamanipi/slayer/blob/main/img.jpg)
 
 ## Requirement
 
