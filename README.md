@@ -14,4 +14,3 @@ Face and mask detection using CNN
 ## Reference
 
 - Dataset: https://github.com/prajnasb/observations
-- reference:https://github.com/kairess/mask-detection
